@@ -1,0 +1,6 @@
+{
+  "name": "Lumen 3D Photography Studio & Management System",
+  "description": "Full-stack 3D photography studio portfolio with Three.js visuals, booking engine, and complete admin panel with multi-event calendar scheduling, employee management, and revenue analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
